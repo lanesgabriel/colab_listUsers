@@ -21,4 +21,4 @@ No quesito de gerenciamento de rotas eu utilizei a biblioteca **react-router-dom
 ### Estilização
 Eu optei por utilizar o framework de estilização Styled-Components para dar a cara do projeto. Nessa parte, eu também utilizei a biblioteca de componentes radix-ui para implementar a parte das fotos de usuário. Eu gosto da utilização dessas ferramentas pois elas facilitam o trabalho ao proverem componentes primitivos de fácil uso e estilização. Além disso, criei os arquivos de estilos globais e temas para configurar algumas propriedades de estilo globais da aplicação e armazenar as variáveis de cor usadas no projeto.
 
-**OBS:**npm: ">=8.15.0", node: ">=16.17.1"
+**OBS:** npm: ">=8.15.0", node: ">=16.17.1"
